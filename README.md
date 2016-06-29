@@ -1,5 +1,5 @@
 Security App for OS X:
- - Icon turnes "red" if original mac is set
+ - Icon turns "red" if original mac is set
  - Enable/Disable IPv6
  - Macchanger
  - Restores Original MAC
