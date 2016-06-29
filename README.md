@@ -1,4 +1,5 @@
-Security App for OS X:
+Zero is a small security App for OS X:
+NOTE: Tested on El Capitan
  - Icon turns "red" if original mac is set
  - Enable/Disable IPv6
  - Macchanger
