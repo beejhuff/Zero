@@ -17,4 +17,5 @@ Issues:
  - Macchanger not always changes MAC Address
 
 ToDo:
- - todo...
+ - Scan all available interfaces and add options to each.
+ - Add more settings...
